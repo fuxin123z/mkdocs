@@ -44,7 +44,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'MING\'s BLOG' 
-copyright = u'2018, 小明同学'
+copyright = u'2020, fufu'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
