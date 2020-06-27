@@ -34,6 +34,15 @@ extensions = ['chinese_search']
 templates_path = ['_templates']
 
 # The suffix of source filenames.
+
+
+
+from recommonmark.parser import CommonMarkParser
+source_parsers = {
+    '.md': CommonMarkParser,
+}
+
+
 source_suffix = ['.rst','.md']
 
 # The encoding of source files.
