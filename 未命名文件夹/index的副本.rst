@@ -7,8 +7,7 @@ Welcome to MING's BLOG's documentation!
 =======================================
 
 .. toctree::
-    :maxdepth: 2
-    :glob:
-    
-    class/index
-    xueyuan/index
+   :maxdepth: 2
+   :caption: Contents:
+   
+   class

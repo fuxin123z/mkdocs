@@ -52,9 +52,8 @@ source_suffix = ['.rst','.md']
 master_doc = 'index'
 
 # General information about the project.
-project = u'fufu\'s BLOG' 
+project = u'MING\'s BLOG' 
 copyright = u'2020, fufu'
-#author = u'Scott Ming'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -72,7 +71,7 @@ html_theme = 'default'
 html_static_path = ['_static']
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'fufu BLOG'
+htmlhelp_basename = 'Python-Time BLOG'
 
 
 # -- Options for LaTeX output ---------------------------------------------
