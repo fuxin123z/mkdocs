@@ -6,6 +6,9 @@
 Welcome to MING's BLOG's documentation!
 =======================================
 
+.. image:: svg/blaze_med.png
+   :align: center
+
 .. toctree::
     :maxdepth: 2
     :glob:
